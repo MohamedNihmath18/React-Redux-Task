@@ -18,10 +18,8 @@
 ## Learn About
 <p>I learned to Context as well as to passing data to component elements as per the request which helped me to understand</p>
 
+<h1>Screenshot</h1>![Screenshot (68)](https://github.com/MohamedNihmath18/React-Redux-Task/assets/106542888/3fcee2d4-c9c3-4127-84c3-8d24e293cb08)
 
-
-## Website
-<a href="https://reduxcartfsd.netlify.app/" target="_blank">Preview</a>
 
 ## Setup
 <p>Following are the requirements to run this project:</p>
